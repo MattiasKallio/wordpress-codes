@@ -2,7 +2,7 @@
 
 This is for adding metadata to the wordpress search.  This is useful for custom post types and custom fields.
 
-<code>
+```php
 // Add metadata to WordPress search
 function add_metadata_to_search($search, $wp_query) {
     global $wpdb;
@@ -32,4 +32,4 @@ function add_metadata_to_search($search, $wp_query) {
     return $search;
 }
 add_filter('posts_search', 'add_metadata_to_search', 10, 2);
-</code>
+```

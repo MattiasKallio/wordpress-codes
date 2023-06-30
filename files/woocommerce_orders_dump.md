@@ -4,7 +4,7 @@ Dumping orders to XML-file that is importable by the plugin [Order Export Import
 
 I just run it with a shortcode, because I like to just reload a page and have it run once... But there are other ways to do it. ;)
 
-<code>
+```php
 add_shortcode('dump_woocommerce_orders', 'dump_woocommerce_orders');
 
 function dump_woocommerce_orders() {
@@ -137,4 +137,4 @@ function dump_woocommerce_orders() {
     fclose($file);
     return $full_xml;
 }
-</code>
+```
