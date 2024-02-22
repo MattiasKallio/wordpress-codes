@@ -1,4 +1,4 @@
-#Add metadata fields to WordPress search
+# Add metadata fields to WordPress search
 
 This is for adding metadata to the wordpress search.  This is useful for custom post types and custom fields.
 
