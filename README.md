@@ -19,3 +19,6 @@ If you want to add a checkbox to hide the thumbnail image on a single post, but 
 
 ## [Replace part of text in postmeta](https://github.com/MattiasKallio/wordpress-codes/blob/main/files/SQL_replace_part.md)
 I just need to remember this SQL query to replace part of a text in a postmeta field. The "where" key is important, otherwise you will replace all the text in all the postmeta fields.
+
+# [Replace part of text in postmeta](files/custom_login_logo.md)
+This code will replace the default WordPress logo with your own logo. Add the following code to your theme's functions.php file.
