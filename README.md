@@ -22,3 +22,6 @@ I just need to remember this SQL query to replace part of a text in a postmeta f
 
 ## [Custom login logotype](https://github.com/MattiasKallio/wordpress-codes/blob/main/files/custom_login_logo.md)
 This code will replace the default WordPress logo with your own logo. Add the following code to your theme's functions.php file.
+
+## [Disable popup if no consent from CookieYes](https://github.com/MattiasKallio/wordpress-codes/blob/main/files/disablepopup_if_no_consent.md)
+In WordPress Popupbuider, you can use the following code to disable the popup if the user has not given consent to cookies.  This is useful if you want to show a cookie consent popup before showing other popups.
