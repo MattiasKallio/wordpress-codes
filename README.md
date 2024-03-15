@@ -25,3 +25,6 @@ This code will replace the default WordPress logo with your own logo. Add the fo
 
 ## [Disable popup if no consent from CookieYes](https://github.com/MattiasKallio/wordpress-codes/blob/main/files/disablepopup_if_no_consent.md)
 In WordPress Popupbuider, you can use the following code to disable the popup if the user has not given consent to cookies.  This is useful if you want to show a cookie consent popup before showing other popups.
+
+## [Add a custom field for customer price in WooCommerce](https://github.com/MattiasKallio/wordpress-codes/blob/main/files/add_field_for_customer_price_woocommerce.md)
+This code example adds a custom field for the customer's own price on the product page. The custom price is added to the cart and displayed on the checkout page. The custom price is also used in the calculation of the total price.
