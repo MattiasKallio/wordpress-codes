@@ -28,3 +28,6 @@ In WordPress Popupbuider, you can use the following code to disable the popup if
 
 ## [Add a custom field for customer price in WooCommerce](https://github.com/MattiasKallio/wordpress-codes/blob/main/files/add_field_for_customer_price_woocommerce.md)
 This code example adds a custom field for the customer's own price on the product page. The custom price is added to the cart and displayed on the checkout page. The custom price is also used in the calculation of the total price.
+
+## [Add export data to User Insights](https://github.com/MattiasKallio/wordpress-codes/blob/main/files/add_export_data_to_userinsights.md)
+If you want to add custom data to the User Insights plugin, you can use the following code snippet. This code adds a custom field to the User Insights plugin and populates it with data from the BuddyPress avatar or the WordPress avatar if it is not a Gravatar.
