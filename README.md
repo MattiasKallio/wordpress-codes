@@ -31,3 +31,6 @@ This code example adds a custom field for the customer's own price on the produc
 
 ## [Add export data to User Insights](https://github.com/MattiasKallio/wordpress-codes/blob/main/files/add_export_data_to_userinsights.md)
 If you want to add custom data to the User Insights plugin, you can use the following code snippet. This code adds a custom field to the User Insights plugin and populates it with data from the BuddyPress avatar or the WordPress avatar if it is not a Gravatar.
+
+## [Block products per country in woocommerce checkout](https://github.com/MattiasKallio/wordpress-codes/blob/main/files/block_products_per_country.md)
+This code snippet will block products from being bought in a specific country. In this example, the product with the ID 11012 can only be bought in Sweden. If the customer tries to buy the product from another country, they will be redirected to the cart page with an error message.

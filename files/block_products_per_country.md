@@ -4,9 +4,6 @@ This code snippet will block products from being bought in a specific country. I
 ```php
 //Bara köpa vanligt medlemskap i sverige. 
 add_action('woocommerce_check_cart_items', function () {
-    // Only on checkout page (allowing customer to change the country in cart shipping calculator)
-    //if( ! is_checkout() && ! is_cart() ) return;
-    // Set your products
     $products = [11012];
 
     // Get customer country
