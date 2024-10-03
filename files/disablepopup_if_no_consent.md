@@ -13,6 +13,7 @@ return false;
 
 ```
 
+# Add a text after the add to cart button if the user has not given consent to cookies
 Not for the popup, but fitted here anyway because it's a cookieyes thing... 
 Add a text after the add to cart button if the user has not given consent to cookies. In some themes you just get an error when trying to add to cart if you have not given consent to cookies. This is a way to inform the user about this.
     
