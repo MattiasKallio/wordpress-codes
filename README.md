@@ -36,3 +36,6 @@ If you want to add custom data to the User Insights plugin, you can use the foll
 
 ## [Block products per country in woocommerce checkout](https://github.com/MattiasKallio/wordpress-codes/blob/main/files/block_products_per_country.md)
 This code snippet will block products from being bought in a specific country. In this example, the product with the ID 11012 can only be bought in Sweden. If the customer tries to buy the product from another country, they will be redirected to the cart page with an error message.
+
+## [Link or menu to this date](https://github.com/MattiasKallio/wordpress-codes/blob/main/files/link_or_menu_this_date.md)
+If you want a shortcode or a menu item that links to the current date, this is how you do it. You can just skip the manad array if you're not interested in the month name in swedish. The links in the examples are like 24-december and assumes you have a page for each day of the year.
