@@ -42,4 +42,5 @@ This code snippet will block products from being bought in a specific country. I
 If you want a shortcode or a menu item that links to the current date, this is how you do it. You can just skip the manad array if you're not interested in the month name in swedish. The links in the examples are like 24-december and assumes you have a page for each day of the year.
 
 ## [Show products only from the coupon selection](https://github.com/MattiasKallio/wordpress-codes/blob/main/files/only_show_products_from_coupon_selection.md)
+### OK, still working on this, sort of working, but it's not perfect yet.
 This code snippet will show products only from the coupon selection. If the customer has not selected a coupon, they will get a message that they have to use a coupon to see the products associated with that code. If the customer has selected a coupon, they will only see products that are associated with that coupon. The products are associated with the coupon by selecting a product category in the coupon settings.
