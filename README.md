@@ -44,3 +44,6 @@ If you want a shortcode or a menu item that links to the current date, this is h
 ## [Show products only from the coupon selection](https://github.com/MattiasKallio/wordpress-codes/blob/main/files/only_show_products_from_coupon_selection.md)
 ### OK, still working on this, sort of working, but it's not perfect yet.
 This code snippet will show products only from the coupon selection. If the customer has not selected a coupon, they will get a message that they have to use a coupon to see the products associated with that code. If the customer has selected a coupon, they will only see products that are associated with that coupon. The products are associated with the coupon by selecting a product category in the coupon settings.
+
+## [Contact Form 7 - Temp disable button](https://github.com/MattiasKallio/wordpress-codes/blob/main/files/contact_form_7_temp_disable_button.md)
+This code will disable the submit button for 5 seconds when the form is submitted. This is to prevent multiple submissions of the form. The submit button will be disabled and the text will change to "Sending..." for 5 seconds. After 5 seconds, the submit button will be enabled again and the text will change back to "Send".
