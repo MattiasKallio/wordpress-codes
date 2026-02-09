@@ -47,3 +47,6 @@ This code snippet will show products only from the coupon selection. If the cust
 
 ## [Contact Form 7 - Temp disable button](https://github.com/MattiasKallio/wordpress-codes/blob/main/files/contact_form_7_temp_disable_button.md)
 This code will disable the submit button for 5 seconds when the form is submitted. This is to prevent multiple submissions of the form. The submit button will be disabled and the text will change to "Sending..." for 5 seconds. After 5 seconds, the submit button will be enabled again and the text will change back to "Send".
+
+## [WooCommerce - Fixed Product Price Coupon](https://github.com/MattiasKallio/wordpress-codes/blob/main/files/woocommerce_discount_fixed_price.md)
+To add a new coupon type "fixed_product_price" that sets a fixed price on products in the cart. It's not a discount but a price override. The code also hides the coupon line in the cart totals if the discount amount is $0, and instead shows the fixed price applied by the coupon.
