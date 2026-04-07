@@ -50,3 +50,6 @@ This code will disable the submit button for 5 seconds when the form is submitte
 
 ## [WooCommerce - Fixed Product Price Coupon](https://github.com/MattiasKallio/wordpress-codes/blob/main/files/woocommerce_discount_fixed_price.md)
 To add a new coupon type "fixed_product_price" that sets a fixed price on products in the cart. It's not a discount but a price override. The code also hides the coupon line in the cart totals if the discount amount is $0, and instead shows the fixed price applied by the coupon.
+
+## [Fix special characters in file names in uploads](https://github.com/MattiasKallio/wordpress-codes/blob/main/files/fix_special_chars_in_files.md)
+This code will replace special characters in file names in the uploads folder with their ASCII equivalents. This is useful if you have files with special characters in their names that are not displaying correctly on the website. The code will run once and then mark itself as done using an option in the database, so it won't run again on every page load.
